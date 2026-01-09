@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ds-sinhvien>
+    <sinhvien>
+      <masv>24174600077</masv>
+      <tensv>Nguyen Thi Lan Anh</tensv>
+      <namsinh>2006</namsinh>
+      <lop>DHKL18A2HN</lop>
+      <gioitinh>Nu</gioitinh>
+    </sinhvien>
+  
+    <sinhvien>
+        <masv>22174600098</masv>
+        <tensv>Doan Thi Kim Anh</tensv>
+        <namsinh>2004</namsinh>
+        <lop>DHKL16A2HN</lop>
+        <gioitinh>Nu</gioitinh>
+    </sinhvien>
